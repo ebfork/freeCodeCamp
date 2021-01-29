@@ -7,11 +7,11 @@
 
 files: [
  {
-  "source" : "/english/intro.json",
-  "translation" : "/%language%/%original_file_name%"
+  "source" : "/client/i18n/locales/english/intro.json",
+  "translation" : "/client/i18n/locales/%language%/%original_file_name%"
  },
  {
-  "source" : "/english/translations.json",
-  "translation" : "/%language%/%original_file_name%"
+  "source" : "/client/i18n/locales/english/translations.json",
+  "translation" : "/client/i18n/locales/%language%/%original_file_name%"
  }
 ]
