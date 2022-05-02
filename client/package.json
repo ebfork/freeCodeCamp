@@ -29,7 +29,7 @@
     "date-fns": "^2.16.1",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "final-form": "^4.20.1",
+    "final-form": "^4.20.7",
     "gatsby": "^2.31.1",
     "gatsby-cli": "^2.18.0",
     "gatsby-plugin-advanced-sitemap": "^1.5.7",
